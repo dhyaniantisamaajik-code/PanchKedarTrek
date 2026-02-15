@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+.next
+.env
+.env.local
+.env.*.local
+.git
+.gitignore
+.eslintrc.json
+README.md
+public/.next
+.vscode
+.idea
+.DS_Store
+coverage
+.turbo
+.vercel
